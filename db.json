@@ -17,6 +17,12 @@
       "text": "Vet Appointment",
       "day": "June 3 at 3:30pm",
       "reminder": false
+    },
+    {
+      "text": "Test Task",
+      "day": "all day",
+      "reminder": false,
+      "id": 4
     }
   ]
 }
